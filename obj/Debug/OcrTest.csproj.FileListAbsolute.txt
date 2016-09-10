@@ -1,0 +1,15 @@
+F:\TestProjects\OcrTest\OcrTest\bin\OcrTest.dll.config
+F:\TestProjects\OcrTest\OcrTest\bin\OcrTest.dll
+F:\TestProjects\OcrTest\OcrTest\bin\OcrTest.pdb
+F:\TestProjects\OcrTest\OcrTest\bin\Newtonsoft.Json.dll
+F:\TestProjects\OcrTest\OcrTest\bin\Tesseract.dll
+F:\TestProjects\OcrTest\OcrTest\bin\Newtonsoft.Json.xml
+F:\TestProjects\OcrTest\OcrTest\bin\Tesseract.xml
+F:\TestProjects\OcrTest\OcrTest\obj\Debug\OcrTest.csprojResolveAssemblyReference.cache
+F:\TestProjects\OcrTest\OcrTest\obj\Debug\OcrTest.dll
+F:\TestProjects\OcrTest\OcrTest\obj\Debug\OcrTest.pdb
+F:\TestProjects\OcrTest\OcrTest\bin\x64\liblept168.dll
+F:\TestProjects\OcrTest\OcrTest\bin\x64\libtesseract302.dll
+F:\TestProjects\OcrTest\OcrTest\bin\x86\liblept168.dll
+F:\TestProjects\OcrTest\OcrTest\bin\x86\libtesseract302.dll
+F:\TestProjects\OcrTest\OcrTest\bin\Tesseract.Helper.dll
